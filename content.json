@@ -1,0 +1,51 @@
+{
+  "categories": [
+    {
+      "id": "letters",
+      "title": "🌈 Letters",
+      "color": "#FF6B9D",
+      "videos": [
+        {"title": "ABC Phonics Song", "url": "https://www.youtube.com/watch?v=BELlZKpi1Zs"},
+        {"title": "Alphablocks - Letter A", "url": "https://www.youtube.com/watch?v=sXxEeS5pXGo"},
+        {"title": "ABC Song - Super Simple", "url": "https://www.youtube.com/watch?v=_UR-l3QI2nE"},
+        {"title": "Ms Rachel - Learn Letters", "url": "https://www.youtube.com/watch?v=5GR1HPfPvIs"},
+        {"title": "StoryBots ABC Song", "url": "https://www.youtube.com/watch?v=BBGOu5ondUs"}
+      ]
+    },
+    {
+      "id": "songs",
+      "title": "🎵 Songs",
+      "color": "#4DD0E1",
+      "videos": [
+        {"title": "Wheels on the Bus", "url": "https://www.youtube.com/watch?v=e_04ZrNroTo"},
+        {"title": "Baby Shark", "url": "https://www.youtube.com/watch?v=XqZsoesa55w"},
+        {"title": "Old MacDonald", "url": "https://www.youtube.com/watch?v=_6HzoUcx3eo"},
+        {"title": "Twinkle Twinkle", "url": "https://www.youtube.com/watch?v=yCjJyiqpAuU"},
+        {"title": "If You're Happy", "url": "https://www.youtube.com/watch?v=l4WNrvVjiTw"}
+      ]
+    },
+    {
+      "id": "stories",
+      "title": "📖 Stories",
+      "color": "#AED581",
+      "videos": [
+        {"title": "The Gruffalo", "url": "https://www.youtube.com/watch?v=s8IRfFTGobk"},
+        {"title": "Brown Bear, Brown Bear", "url": "https://www.youtube.com/watch?v=OmCXTQUajUo"},
+        {"title": "The Very Hungry Caterpillar", "url": "https://www.youtube.com/watch?v=75NQK-Sm1YY"},
+        {"title": "Where the Wild Things Are", "url": "https://www.youtube.com/watch?v=AAjyCfJSjPs"},
+        {"title": "Goodnight Moon", "url": "https://www.youtube.com/watch?v=ICZNS7HFNjA"}
+      ]
+    },
+    {
+      "id": "animals",
+      "title": "🦄 Animals",
+      "color": "#FFD54F",
+      "videos": [
+        {"title": "Animals for Kids", "url": "https://www.youtube.com/watch?v=wC75JQmZUSU"},
+        {"title": "Wild Animals Song", "url": "https://www.youtube.com/watch?v=gghDRJVxFxU"},
+        {"title": "Farm Animals", "url": "https://www.youtube.com/watch?v=zXEq-QO3xRg"},
+        {"title": "Baby Animals", "url": "https://www.youtube.com/watch?v=hewioIU4a64"}
+      ]
+    }
+  ]
+}
