@@ -54,6 +54,16 @@
         {"title": "Farm Animals", "url": "https://www.youtube.com/watch?v=zXEq-QO3xRg"},
         {"title": "Baby Animals", "url": "https://www.youtube.com/watch?v=hewioIU4a64"}
       ]
-    }
+    },
+{
+  "id": "pbskids",
+  "title": "🎮 PBS Kids",
+  "color": "#7E57C2",
+  "games": [
+    {"title": "Backyard Bug Hunt", "url": "https://pbskids.org/games/play/backyard-bug-hunt/1216876"},
+    {"title": "Look Closely", "url": "https://pbskids.org/games/play/look-closely/1771637"},
+    {"title": "Xavier: Code The Way", "url": "https://pbskids.org/games/play/xavier-code-the-way/1674524"}
+  ]
+}
   ]
 }
